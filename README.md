@@ -2,7 +2,7 @@
 
 AI Chat Bot
 
-## Getting Started
+## Will be written soon
 
 This project is a starting point for a Flutter application.
 
